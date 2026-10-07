@@ -5,7 +5,7 @@
 A dynamic graph neural network for forecasting the future directed interaction trajectories of a microbial strain from its interaction profile observed at a single initial time point.
 
 <p align="center">
-  <img src="/dsgnn_architecture.png" alt="DSGNN architecture" width="100%">
+  <img src="/dsgnn_architecture.png" alt="DSGNN architecture" width="100%"> 
 </p>
 
 
